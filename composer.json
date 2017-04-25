@@ -1,0 +1,13 @@
+{
+    "name": "root/slim-api",
+    "require": {
+        "slim/slim": "^3.8",
+        "catfan/Medoo": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "bryannbarbosa",
+            "email": "bryannbarbosa@gmail.com"
+        }
+    ]
+}
